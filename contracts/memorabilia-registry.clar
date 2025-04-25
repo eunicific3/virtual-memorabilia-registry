@@ -21,3 +21,4 @@
 (define-constant CODE-INVALID-TARGET (err u306))    ;; Target principal is invalid
 (define-constant CODE-ADMIN-RESTRICTED (err u307))  ;; Action limited to admin only
 (define-constant CODE-PERMISSION-DENIED (err u308)) ;; User lacks required access level
+
